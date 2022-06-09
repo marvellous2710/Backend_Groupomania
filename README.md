@@ -4,10 +4,10 @@
 ```
 git clone https://github.com/marvellous2710/Backend_Groupomania.git
 ```
-## Installer dans le dossier backend les modules suivant : mySQL, express, jsonwebtoken, dotenv, cors, bcrypt, multer, nodemon
+## Installer dans le dossier backend les modules suivant :
 
 ```
-npm install cors
+npm install mysql express jsonwebtoken dotenv cors bcrypt multer nodemon
 ```
 
 ## Créer un fichier .env pour y renseigner la database ainsi que le token comme dans ".env.dist"
